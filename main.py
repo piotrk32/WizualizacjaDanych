@@ -53,9 +53,9 @@
 
 
 # x=[3,55]
-# print(min(x))
+# print(floor(x))
 # y= [4,80]
-# print(max(y))
+# print(ceil(y))
 
 # #zad5
 
